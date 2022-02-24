@@ -86,8 +86,7 @@ function getSura() {
                                     console.log("ses");
                                 }
 
-                                // AyahIndex < AyahsAudio.length  ? AyahIndex++ : AyahIndex=0;
-                                //  changeAyah(AyahIndex)
+
                             })
                             prev.addEventListener('click', function () {
                                 AyahIndex--
